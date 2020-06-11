@@ -1,0 +1,1 @@
+web: gunicorn technohub.wsgi --log-file -
