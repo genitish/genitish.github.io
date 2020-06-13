@@ -162,9 +162,7 @@ STATICFILES_DIRS =(
 )
 
 MEDIA_URL = '/media/'
-MEDIA_ROOT =(
-  os.path.join(BASE_DIR,"technohub/media")
-)
+MEDIA_ROOT = os.path.join(BASE_DIR,'technohub/media')
 
 
 CKEDITOR_JQUERY_URL = 'https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js'
