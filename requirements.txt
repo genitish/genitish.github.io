@@ -1,5 +1,5 @@
 -f /usr/share/pip-wheels
-Babel==2.8.0
+Babel==2.9.1
 Django==2.2.13
 django-ckeditor==5.9.0
 django-js-asset==1.2.2
